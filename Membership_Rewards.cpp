@@ -1,5 +1,5 @@
 /*
- * Project Name: Input Validation and Control Flow
+ * Project Name: Basic Input Validation and Control Flow
  * Created by: sentinel49
  * GitHub: https://github.com/sentinel49
  *
